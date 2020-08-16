@@ -1,6 +1,16 @@
-. topright{
+.topright{
   justify-content: space-between;
   float:right;
-  background-color: #fff;
-  border-left: 30em;
+  border-left: 3em;
+  flex-direction: column;
+}
+body {
+  background-color:#4DC7E1;
+  font-family: Poppins, sans-serif;
+  font-size: 1rem;
+  color: black;
+  min-height: 100vh;
+}
+#img{
+
 }
