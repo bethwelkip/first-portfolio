@@ -7,13 +7,15 @@ h1 {
   text-align: center;
   margin-left: 35%;
 }
-.projects{
-float: none;
-width: 30%
+.projects {
+  width: 45%;
+  float:left;
+  margin-left: 1.5rem;
+  margin-right: 1rem;
 }
-.h2.projects{
-
-}
-.p.projects{
-
+h2 {
+  border: 2px #178DFA;
+  background-color: #178DFA;
+  padding: 1px;
+  margin-bottom: 0;
 }
