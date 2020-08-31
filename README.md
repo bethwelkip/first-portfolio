@@ -2,7 +2,7 @@
 #### This is my most current website, as of August 31,2020
 #### By **Bethwel Kiplimo**
 ## Description
-This is the source code for a personal website currently in development.
+This is the source code for a personal website currently in development. The project is currently deployed on Github pages and can be accessed [here](https://bethwelkip.github.io/first-portfolio/).
 ## Setup/Installation Requirements
 This codebase is standalone and does not require any other code.To run this webpage, you will only need a browser and active internet
 * Open the browser and type bethwelkip.github.io/first-portfolio/
