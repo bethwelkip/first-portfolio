@@ -1,5 +1,5 @@
 ## Bethwel's Portfolio
-#### This is my most current website, as of August 16,2020
+#### This is my most current website, as of August 31,2020
 #### By **Bethwel Kiplimo**
 ## Description
 This is the source code for a personal website currently in development.
