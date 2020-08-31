@@ -1,16 +1,17 @@
 .topright{
   justify-content: space-between;
-  float:right;
+  float:left;
   border-left: 3em;
   flex-direction: column;
 }
 body {
   background-color:#4DC7E1;
-  font-family: Poppins, sans-serif;
+  font-family: sans-serif;
   font-size: 1rem;
   color: black;
   min-height: 100vh;
 }
-#img{
-
+.main-section{
+margin-bottom: 0;
+border-top: 10rem;
 }
