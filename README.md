@@ -17,5 +17,5 @@ https://bethwelkip.github.io/first-portfolio/
 Please reach out to me at bkiplimo@princeton.edu if you have any questions
 or concerns.
 ### License
-This extension is licensed under the MIT License
+This extension is licensed under the [MIT License](https://choosealicense.com/licenses/mit/)
 Copyright (c) {2020} **{Bethwel Kiplimo}**
